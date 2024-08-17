@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+#menu{
+	display: block;
+}
+
+#menu ul{
+	list list-style: none;
+	text-transform: uppercase;
+	position: absolute;
+	top: 0px;
+	left: 100px;
+}
+
+#menu li{
+	display: inline-block;
+	padding-right: 50px;
+	padding-left: 30px;
+}
+
+.p{
+	color: blueviolet;
+	text-align: justify;
+	font-size: 20pt;
+
+}
+
+#a{
+	color: darkblue;
+}
+
+h1{
+	text-align: center;
+	color: darkred;
+	padding: 50px;
+	font-size: 20pt;
+}
+
+
+img{
+	width: 300px;
+	height: 200px;
+}
+
+body{
+	background-color: #fffe0;
+}
